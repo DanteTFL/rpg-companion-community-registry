@@ -2136,5 +2136,54 @@
     "github_repo": "Bleddyn159/Witcher-Homebrew",
     "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
     "has_system": false
+  },
+  {
+    "name": "astarions-book-of-hungers",
+    "description": "Everything from the book of hungers",
+    "tags": [
+      "5e2024",
+      "abh"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/astarions-book-of-hungers",
+    "repo_url": "https://DMRocketMaster.github.io/astarions-book-of-hungers/",
+    "has_system": false
+  },
+  {
+    "name": "lorwyn-first-light",
+    "description": "Everything from Lorwyn",
+    "tags": [
+      "5e2024",
+      "lfl"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/lorwyn-first-light",
+    "repo_url": "https://DMRocketMaster.github.io/lorwyn-first-light/",
+    "has_system": false
+  },
+  {
+    "name": "forgotten-realms-heroes-of-faerun",
+    "description": "Everything from frhof",
+    "tags": [
+      "5e2024",
+      "frhof"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/forgotten-realms-heroes-of-faerun",
+    "repo_url": "https://DMRocketMaster.github.io/forgotten-realms-heroes-of-faerun/",
+    "has_system": false
+  },
+  {
+    "name": "Ravenloft-the-Horrors-Within",
+    "description": "Everything from Ravenloft",
+    "tags": [
+      "5e2024",
+      "rhw",
+      "vampire"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Ravenloft-the-Horrors-Within",
+    "repo_url": "https://DMRocketMaster.github.io/Ravenloft-the-Horrors-Within/",
+    "has_system": false
   }
 ]
