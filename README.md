@@ -56,6 +56,21 @@ your PR and may correct it. If you're unsure, leave it as `homebrew` — an entr
 `origin` at all is treated as `homebrew` by the app. Note that `homebrew` in `tags` is
 just a search label and is unrelated to this field.
 
+## Language
+
+Entries are assumed to be in English. If your pack is in another language — whether a
+translation or originally written in it — add a `language` field with the two-letter
+[ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code, right after
+`origin`:
+
+```json
+"language": "ru"
+```
+
+Language and origin are independent: a faithful Russian translation of the 5e rules is
+`"origin": "official"` **and** `"language": "ru"`. Don't add `"language": "en"` to
+English packs — absent means English.
+
 ## How the star sync works
 
 A GitHub Action runs periodically and:

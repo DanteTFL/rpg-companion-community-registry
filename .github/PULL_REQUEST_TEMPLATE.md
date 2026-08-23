@@ -15,3 +15,4 @@
 - [ ] `repo_url` is the exact URL that works when pasted into the RPG Companion App (trailing slash included)
 - [ ] `github_repo` is `owner/name` (or `null` if not on GitHub)
 - [ ] Description says what's actually in the pack
+- [ ] Pack not in English? Added `"language": "<two-letter code>"` after `origin` (translations of official content keep `origin: official`)
