@@ -10,6 +10,11 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "5e",
+      "5e2024",
+      "pf2e"
+    ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
     "stars": 11,
@@ -25,6 +30,9 @@
       "5e2024"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "repo_url": "https://d2g0c6hamn0dq.cloudfront.net",
     "stars": 0
   },
@@ -38,6 +46,9 @@
     ],
     "origin": "official",
     "language": "ru",
+    "systems": [
+      "5e-ru"
+    ],
     "repo_url": "https://serfetto.github.io/RU-RPG-Companion-App/",
     "github_repo": "Serfetto/RU-RPG-Companion-App",
     "stars": 0,
@@ -54,6 +65,9 @@
       "heroes-of-faerun"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "repo_url": "https://toothy-nineveth.github.io/5e2024HROF",
     "github_repo": "Toothy-Nineveth/5e2024HROF",
     "stars": 4
@@ -65,6 +79,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Joybrther/RPG-backup",
     "repo_url": "https://Joybrther.github.io/RPG-backup/",
@@ -77,6 +94,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/custom-idea-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/custom-idea-pack/",
@@ -89,6 +109,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Mobian-Setting",
     "repo_url": "https://Violetwolf003-beep.github.io/Mobian-Setting/",
@@ -99,6 +122,9 @@
     "description": "classes, weapons, and items inspired by Xenoblade Chronicles 1, and 2",
     "tags": [],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Xenoblade-1-and-2-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Xenoblade-1-and-2-inspired-pack/",
@@ -111,6 +137,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Cardslinger-Class",
     "repo_url": "https://Violetwolf003-beep.github.io/Cardslinger-Class/",
@@ -124,6 +153,9 @@
       "chainsaw-man"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 1,
     "github_repo": "Violetwolf003-beep/Chainsaw-Man-Ideas",
     "repo_url": "https://Violetwolf003-beep.github.io/Chainsaw-Man-Ideas/",
@@ -137,6 +169,9 @@
       "heroes-of-faerun"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "jesseseward75-cmyk/hero-s-agents-goblins",
     "repo_url": "https://jesseseward75-cmyk.github.io/hero-s-agents-goblins/",
@@ -149,6 +184,9 @@
       "5e2024"
     ],
     "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "Junk-Pyle/The-Pugilist-Pack",
     "repo_url": "https://Junk-Pyle.github.io/The-Pugilist-Pack/",
@@ -163,6 +201,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Junk-Pyle/DM-TUZ-Races",
     "repo_url": "https://Junk-Pyle.github.io/DM-TUZ-Races/",
@@ -177,6 +218,9 @@
       "bloodborne"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "SLRPY-PNDZZ/The-Bloodborne-Hunter",
     "repo_url": "https://SLRPY-PNDZZ.github.io/The-Bloodborne-Hunter/",
@@ -189,6 +233,9 @@
       "5e2024"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "odytsek/Twilight-cleric",
     "repo_url": "https://odytsek.github.io/Twilight-cleric/",
@@ -202,6 +249,9 @@
       "one-piece"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 1,
     "github_repo": "Violetwolf003-beep/One-piece-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/One-piece-inspired-pack/",
@@ -214,6 +264,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Plague-doctor-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Plague-doctor-pack/",
@@ -226,6 +279,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Weapon-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Weapon-pack/",
@@ -239,6 +295,9 @@
       "street-fighter"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
@@ -252,6 +311,9 @@
       "zelda"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Violetwolf003-beep/Zelda-Inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Zelda-Inspired-pack/",
@@ -265,6 +327,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
@@ -277,6 +342,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "MalletGreatshield/Bearfolk",
     "repo_url": "https://MalletGreatshield.github.io/Bearfolk/",
@@ -290,6 +358,9 @@
       "fantasy"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/Eberron-forge-of-the-artificer",
     "repo_url": "https://DMRocketMaster.github.io/Eberron-forge-of-the-artificer/",
@@ -304,6 +375,9 @@
       "one-shot"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/The-Delian-Tomb-5.5",
     "repo_url": "https://DMRocketMaster.github.io/The-Delian-Tomb-5.5/",
@@ -318,6 +392,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "collierfoxy60-collab/lantern-class",
     "repo_url": "https://collierfoxy60-collab.github.io/lantern-class/",
@@ -331,6 +408,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -344,6 +424,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -357,6 +440,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -370,6 +456,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -383,6 +472,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -396,6 +488,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -409,6 +504,9 @@
       "homebrew"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "derpsyhome/3rd-party-books-for-5e",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
@@ -424,6 +522,9 @@
       "ghibli"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 3,
     "github_repo": "AcidFoxAlpha/Obojima-core-set",
     "repo_url": "https://AcidFoxAlpha.github.io/Obojima-core-set/",
@@ -437,6 +538,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "returner-system"
+    ],
     "stars": 0,
     "github_repo": "ValdousVirathor/returner-system",
     "repo_url": "https://ValdousVirathor.github.io/returner-system/",
@@ -451,6 +555,9 @@
       "fantasy"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
     "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
@@ -465,6 +572,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "TheShrinch/Warlock-Dealer-subclass",
     "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
@@ -478,6 +588,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "Hezenael/Artificer-Class",
     "repo_url": "https://Hezenael.github.io/Artificer-Class/",
@@ -490,6 +603,9 @@
       "5e2024"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 2,
     "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
     "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
@@ -503,6 +619,9 @@
       "ultrakill"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "KorvenDark/Ultrakill",
     "repo_url": "https://KorvenDark.github.io/Ultrakill/",
@@ -517,6 +636,9 @@
       "music"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "SumgoodPI/Symphonia-1e",
     "repo_url": "https://SumgoodPI.github.io/Symphonia-1e/",
@@ -530,6 +652,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "XenoPlank/New-Underdark-Monster",
     "repo_url": "https://XenoPlank.github.io/New-Underdark-Monster/",
@@ -543,6 +668,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "XenoPlank/A-bunch-of-new-fun-playable-races-inspired-by-monsters",
     "repo_url": "https://XenoPlank.github.io/A-bunch-of-new-fun-playable-races-inspired-by-monsters/",
@@ -556,6 +684,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "XenoPlank/Vedalkin",
     "repo_url": "https://XenoPlank.github.io/Vedalkin/",
@@ -568,6 +699,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "lunaeclipsa2810/half-elf-hobgoblin-and-merfolk-update",
     "repo_url": "https://lunaeclipsa2810.github.io/half-elf-hobgoblin-and-merfolk-update/",
@@ -580,6 +714,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "lunaeclipsa2810/merfolk-and-Hobgoblin",
     "repo_url": "https://lunaeclipsa2810.github.io/merfolk-and-Hobgoblin/",
@@ -594,6 +731,9 @@
       "ranger"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
     "repo_url": "https://ThrawnIsAlive.github.io/Treantmonk-s-Homebrew-Ranger-Buffs/",
@@ -606,6 +746,9 @@
       "5e"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "ethearia123/leonin-species",
     "repo_url": "https://ethearia123.github.io/leonin-species/",
@@ -618,6 +761,9 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "ethearia123/Rival-the-gods-in-",
     "repo_url": "https://ethearia123.github.io/Rival-the-gods-in-/",
@@ -628,6 +774,9 @@
     "description": "All things made for the Haven campaign",
     "tags": [],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "OnyxInTheEyes/Haven-Homebrew",
     "repo_url": "https://OnyxInTheEyes.github.io/Haven-Homebrew/",
@@ -641,6 +790,9 @@
       "5e2024"
     ],
     "origin": "official",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "zxphel/Eldritch-Adept",
     "repo_url": "https://zxphel.github.io/Eldritch-Adept/",
@@ -653,6 +805,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Azrael-Battles/gambling-time",
     "repo_url": "https://Azrael-Battles.github.io/gambling-time/",
@@ -665,6 +820,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Pyr0Gnous/Atlas-Frontiers",
     "repo_url": "https://Pyr0Gnous.github.io/Atlas-Frontiers/",
@@ -679,6 +837,9 @@
       "cowboy"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "turtl230-code/Gunslinger-class-and-weapons-with-bullets",
     "repo_url": "https://turtl230-code.github.io/Gunslinger-class-and-weapons-with-bullets/",
@@ -693,6 +854,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-legacy-core/",
     "github_repo": "blastervla/pf2e-legacy-core",
     "stars": 0,
@@ -707,6 +871,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-7dfs0/",
     "github_repo": "blastervla/pf2e-src-7dfs0",
     "stars": 0,
@@ -721,6 +888,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-aaws/",
     "github_repo": "blastervla/pf2e-src-aaws",
     "stars": 0,
@@ -735,6 +905,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-affm/",
     "github_repo": "blastervla/pf2e-src-affm",
     "stars": 0,
@@ -749,6 +922,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-afof/",
     "github_repo": "blastervla/pf2e-src-afof",
     "stars": 0,
@@ -763,6 +939,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-aoa/",
     "github_repo": "blastervla/pf2e-src-aoa",
     "stars": 0,
@@ -777,6 +956,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-aoe/",
     "github_repo": "blastervla/pf2e-src-aoe",
     "stars": 0,
@@ -791,6 +973,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-av/",
     "github_repo": "blastervla/pf2e-src-av",
     "stars": 0,
@@ -805,6 +990,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-bb/",
     "github_repo": "blastervla/pf2e-src-bb",
     "stars": 0,
@@ -819,6 +1007,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-bl0/",
     "github_repo": "blastervla/pf2e-src-bl0",
     "stars": 0,
@@ -833,6 +1024,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-botd/",
     "github_repo": "blastervla/pf2e-src-botd",
     "stars": 0,
@@ -847,6 +1041,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-cc0/",
     "github_repo": "blastervla/pf2e-src-cc0",
     "stars": 0,
@@ -861,6 +1058,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-cott/",
     "github_repo": "blastervla/pf2e-src-cott",
     "stars": 0,
@@ -875,6 +1075,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-da/",
     "github_repo": "blastervla/pf2e-src-da",
     "stars": 0,
@@ -889,6 +1092,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-dall/",
     "github_repo": "blastervla/pf2e-src-dall",
     "stars": 0,
@@ -903,6 +1109,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-ec/",
     "github_repo": "blastervla/pf2e-src-ec",
     "stars": 0,
@@ -917,6 +1126,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-fop/",
     "github_repo": "blastervla/pf2e-src-fop",
     "stars": 0,
@@ -931,6 +1143,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-frp/",
     "github_repo": "blastervla/pf2e-src-frp",
     "stars": 0,
@@ -945,6 +1160,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-g-g/",
     "github_repo": "blastervla/pf2e-src-g-g",
     "stars": 0,
@@ -959,6 +1177,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-gw/",
     "github_repo": "blastervla/pf2e-src-gw",
     "stars": 0,
@@ -973,6 +1194,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-loaclo/",
     "github_repo": "blastervla/pf2e-src-loaclo",
     "stars": 0,
@@ -987,6 +1211,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-loag/",
     "github_repo": "blastervla/pf2e-src-loag",
     "stars": 0,
@@ -1001,6 +1228,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-locg/",
     "github_repo": "blastervla/pf2e-src-locg",
     "stars": 0,
@@ -1015,6 +1245,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-logm/",
     "github_repo": "blastervla/pf2e-src-logm",
     "stars": 0,
@@ -1029,6 +1262,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lohh/",
     "github_repo": "blastervla/pf2e-src-lohh",
     "stars": 0,
@@ -1043,6 +1279,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-loil/",
     "github_repo": "blastervla/pf2e-src-loil",
     "stars": 0,
@@ -1057,6 +1296,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lokl/",
     "github_repo": "blastervla/pf2e-src-lokl",
     "stars": 0,
@@ -1071,6 +1313,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lol/",
     "github_repo": "blastervla/pf2e-src-lol",
     "stars": 0,
@@ -1085,6 +1330,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lome/",
     "github_repo": "blastervla/pf2e-src-lome",
     "stars": 0,
@@ -1099,6 +1347,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lomm/",
     "github_repo": "blastervla/pf2e-src-lomm",
     "stars": 0,
@@ -1113,6 +1364,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lopsg/",
     "github_repo": "blastervla/pf2e-src-lopsg",
     "stars": 0,
@@ -1127,6 +1381,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lora/",
     "github_repo": "blastervla/pf2e-src-lora",
     "stars": 0,
@@ -1141,6 +1398,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-losk/",
     "github_repo": "blastervla/pf2e-src-losk",
     "stars": 0,
@@ -1155,6 +1415,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lotg/",
     "github_repo": "blastervla/pf2e-src-lotg",
     "stars": 0,
@@ -1169,6 +1432,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lotgb/",
     "github_repo": "blastervla/pf2e-src-lotgb",
     "stars": 0,
@@ -1183,6 +1449,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lotxwg/",
     "github_repo": "blastervla/pf2e-src-lotxwg",
     "stars": 0,
@@ -1197,6 +1466,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-lowg/",
     "github_repo": "blastervla/pf2e-src-lowg",
     "stars": 0,
@@ -1211,6 +1483,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-ltiba/",
     "github_repo": "blastervla/pf2e-src-ltiba",
     "stars": 0,
@@ -1225,6 +1500,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-mal/",
     "github_repo": "blastervla/pf2e-src-mal",
     "stars": 0,
@@ -1239,6 +1517,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-motm/",
     "github_repo": "blastervla/pf2e-src-motm",
     "stars": 0,
@@ -1253,6 +1534,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-ms0/",
     "github_repo": "blastervla/pf2e-src-ms0",
     "stars": 0,
@@ -1267,6 +1551,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-ngd/",
     "github_repo": "blastervla/pf2e-src-ngd",
     "stars": 0,
@@ -1281,6 +1568,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-ooa/",
     "github_repo": "blastervla/pf2e-src-ooa",
     "stars": 0,
@@ -1295,6 +1585,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-pfum/",
     "github_repo": "blastervla/pf2e-src-pfum",
     "stars": 0,
@@ -1309,6 +1602,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-pos1/",
     "github_repo": "blastervla/pf2e-src-pos1",
     "stars": 0,
@@ -1323,6 +1619,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-qff/",
     "github_repo": "blastervla/pf2e-src-qff",
     "stars": 0,
@@ -1337,6 +1636,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-rotr0/",
     "github_repo": "blastervla/pf2e-src-rotr0",
     "stars": 0,
@@ -1351,6 +1653,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-rust/",
     "github_repo": "blastervla/pf2e-src-rust",
     "stars": 0,
@@ -1365,6 +1670,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sas/",
     "github_repo": "blastervla/pf2e-src-sas",
     "stars": 0,
@@ -1379,6 +1687,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sf/",
     "github_repo": "blastervla/pf2e-src-sf",
     "stars": 0,
@@ -1393,6 +1704,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-skt0/",
     "github_repo": "blastervla/pf2e-src-skt0",
     "stars": 0,
@@ -1407,6 +1721,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sli/",
     "github_repo": "blastervla/pf2e-src-sli",
     "stars": 0,
@@ -1421,6 +1738,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sob0/",
     "github_repo": "blastervla/pf2e-src-sob0",
     "stars": 0,
@@ -1435,6 +1755,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sog/",
     "github_repo": "blastervla/pf2e-src-sog",
     "stars": 0,
@@ -1449,6 +1772,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-som/",
     "github_repo": "blastervla/pf2e-src-som",
     "stars": 0,
@@ -1463,6 +1789,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sot/",
     "github_repo": "blastervla/pf2e-src-sot",
     "stars": 0,
@@ -1477,6 +1806,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-sw0/",
     "github_repo": "blastervla/pf2e-src-sw0",
     "stars": 0,
@@ -1491,6 +1823,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tal/",
     "github_repo": "blastervla/pf2e-src-tal",
     "stars": 0,
@@ -1505,6 +1840,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tec/",
     "github_repo": "blastervla/pf2e-src-tec",
     "stars": 0,
@@ -1519,6 +1857,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tio/",
     "github_repo": "blastervla/pf2e-src-tio",
     "stars": 0,
@@ -1533,6 +1874,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tok/",
     "github_repo": "blastervla/pf2e-src-tok",
     "stars": 0,
@@ -1547,6 +1891,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tott0/",
     "github_repo": "blastervla/pf2e-src-tott0",
     "stars": 0,
@@ -1561,6 +1908,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-tv/",
     "github_repo": "blastervla/pf2e-src-tv",
     "stars": 0,
@@ -1575,6 +1925,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-wow/",
     "github_repo": "blastervla/pf2e-src-wow",
     "stars": 0,
@@ -1589,6 +1942,9 @@
       "pf2e"
     ],
     "origin": "official",
+    "systems": [
+      "pf2e"
+    ],
     "repo_url": "https://blastervla.github.io/pf2e-src-wtd/",
     "github_repo": "blastervla/pf2e-src-wtd",
     "stars": 0,
@@ -1601,6 +1957,9 @@
       "5e2024"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "Junk-Pyle/5e-Fighting-Styles",
     "repo_url": "https://Junk-Pyle.github.io/5e-Fighting-Styles/",
@@ -1615,6 +1974,9 @@
       "kh"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "ygdradishil/Kingdom-Hearts-5e-overhaul-",
     "repo_url": "https://ygdradishil.github.io/Kingdom-Hearts-5e-overhaul-/",
@@ -1627,6 +1989,9 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "Holyprince32/Common-languages",
     "repo_url": "https://Holyprince32.github.io/Common-languages/",
@@ -1640,6 +2005,9 @@
       "frieren"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "turtl230-code/Frieren-spells-and-Essentialist-class",
     "repo_url": "https://turtl230-code.github.io/Frieren-spells-and-Essentialist-class/",
@@ -1653,6 +2021,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Ryu-Krynn/Ryu-s-Extended-5e-compendium",
     "repo_url": "https://Ryu-Krynn.github.io/Ryu-s-Extended-5e-compendium/",
@@ -1666,6 +2037,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "turtl230-code/Lichdom-ascension-feats",
     "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
@@ -1679,6 +2053,10 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e",
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "samueldeany/Samuels-Arcanum-",
     "repo_url": "https://samueldeany.github.io/Samuels-Arcanum-/",
@@ -1693,6 +2071,9 @@
       "solasta"
     ],
     "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 1,
     "github_repo": "ThatOneWeirdo92/Solasta-Crown-of-the-Magister-Feats",
     "repo_url": "https://ThatOneWeirdo92.github.io/Solasta-Crown-of-the-Magister-Feats/",
@@ -1705,6 +2086,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Yeetasoreus99/Mike-The-Accountant",
     "repo_url": "https://Yeetasoreus99.github.io/Mike-The-Accountant/",
@@ -1722,6 +2106,9 @@
       "street-fighter"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "mymylovesn14-cloud/Mallorye-",
     "repo_url": "https://mymylovesn14-cloud.github.io/Mallorye-/",
@@ -1736,6 +2123,9 @@
       "artificer"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "JayBinx/Improved-Alchemist-Artificer",
     "repo_url": "https://JayBinx.github.io/Improved-Alchemist-Artificer/",
@@ -1750,6 +2140,9 @@
       "class"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "JayBinx/Arificer-5.5",
     "repo_url": "https://JayBinx.github.io/Arificer-5.5/",
@@ -1763,6 +2156,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "zaezaegoincraycray/Solum-Paladin-Oath",
     "repo_url": "https://zaezaegoincraycray.github.io/Solum-Paladin-Oath/",
@@ -1775,6 +2171,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "moonlittigrr/Misfit-Campaign",
     "repo_url": "https://moonlittigrr.github.io/Misfit-Campaign/",
@@ -1789,6 +2188,9 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "j11barton-lab/some-monster-ideas",
     "repo_url": "https://j11barton-lab.github.io/some-monster-ideas/",
@@ -1803,6 +2205,9 @@
       "hgmh"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "kzh6r28bft-droid/oozekin-helianas",
     "repo_url": "https://kzh6r28bft-droid.github.io/oozekin-helianas/",
@@ -1816,6 +2221,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "MunkiDXin/The-Brew",
     "repo_url": "https://MunkiDXin.github.io/The-Brew/",
@@ -1830,6 +2238,9 @@
       "star-wars"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "4mcncs2bk5-ship-it/Star-Wars-campaign-setting",
     "repo_url": "https://4mcncs2bk5-ship-it.github.io/Star-Wars-campaign-setting/",
@@ -1844,6 +2255,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "britton54-commits/hombrewed-class-gliph-artist",
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
@@ -1859,6 +2273,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "MalletGreatshield/Half-Orc-Dwarf",
     "repo_url": "https://MalletGreatshield.github.io/Half-Orc-Dwarf/",
@@ -1875,6 +2292,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "MalletGreatshield/Fangbreaker",
     "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
@@ -1888,6 +2308,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "ThatOneWeirdo92/Deltarune-Armors",
     "repo_url": "https://ThatOneWeirdo92.github.io/Deltarune-Armors/",
@@ -1900,6 +2323,9 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "LichBadgerKing/Villanary-Path-Feats",
     "repo_url": "https://LichBadgerKing.github.io/Villanary-Path-Feats/",
@@ -1914,6 +2340,9 @@
       "ranger"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "sherriff1/Spirit-Vessel-Ranger",
     "repo_url": "https://sherriff1.github.io/Spirit-Vessel-Ranger/",
@@ -1928,6 +2357,9 @@
       "dark-fantasy"
     ],
     "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 2,
     "github_repo": "misacl9/grim-hollow-player-guide-24",
     "repo_url": "https://misacl9.github.io/grim-hollow-player-guide-24/",
@@ -1941,6 +2373,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "perfectpheonix5/tulas-race",
     "repo_url": "https://perfectpheonix5.github.io/tulas-race/",
@@ -1954,6 +2389,9 @@
       "feats"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "LontraCaolha/e.g-Path-of-the-Grave-walker-feats-",
     "repo_url": "https://LontraCaolha.github.io/e.g-Path-of-the-Grave-walker-feats-/",
@@ -1967,6 +2405,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "sychicburrito/Playable-leopard-gecko-race",
     "repo_url": "https://sychicburrito.github.io/Playable-leopard-gecko-race/",
@@ -1981,6 +2422,9 @@
       "faerun"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "KyteFox/sword-dancer-class",
     "repo_url": "https://KyteFox.github.io/sword-dancer-class/",
@@ -1994,6 +2438,9 @@
       "class"
     ],
     "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "lpatton1025/Illrigger-Class",
     "repo_url": "https://lpatton1025.github.io/Illrigger-Class/",
@@ -2006,6 +2453,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "condix0905-dotcom/Half-vampire-race",
     "repo_url": "https://condix0905-dotcom.github.io/Half-vampire-race/",
@@ -2020,6 +2470,9 @@
       "class"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "dominiklovricdnd/Paragon-dnd-5.5-class",
     "repo_url": "https://dominiklovricdnd.github.io/Paragon-dnd-5.5-class/",
@@ -2033,6 +2486,9 @@
       "subclass"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
@@ -2046,6 +2502,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "owemca-svg/Norse-mythology-monster",
     "repo_url": "https://owemca-svg.github.io/Norse-mythology-monster/",
@@ -2058,6 +2517,9 @@
       "5e"
     ],
     "origin": "published",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "tomhoobianschmal-svg/Battlezoo-dragon-ancestry-and-class",
     "repo_url": "https://tomhoobianschmal-svg.github.io/Battlezoo-dragon-ancestry-and-class/",
@@ -2071,6 +2533,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "Cablako/Monster-Hunting-Tamer",
     "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
@@ -2084,6 +2549,9 @@
       "race"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "giacomomorlando06-commits/Furbab-hombrew-race",
     "repo_url": "https://giacomomorlando06-commits.github.io/Furbab-hombrew-race/",
@@ -2099,6 +2567,9 @@
       "monsters"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "giacomomorlando06-commits/hombrew-wendigo",
     "repo_url": "https://giacomomorlando06-commits.github.io/hombrew-wendigo/",
@@ -2112,6 +2583,10 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e",
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "EF0-coder/Ruined-Background",
     "repo_url": "https://EF0-coder.github.io/Ruined-Background/",
@@ -2126,6 +2601,9 @@
       "5e"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "CMD4Fun/Teenage-Mutant-Ninja-Turtles-Monster-Selections",
     "repo_url": "https://CMD4Fun.github.io/Teenage-Mutant-Ninja-Turtles-Monster-Selections/",
@@ -2141,6 +2619,9 @@
       "ben-10"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "GrimoreGrenore/Ben-10-Alien-Races",
     "repo_url": "https://GrimoreGrenore.github.io/Ben-10-Alien-Races/",
@@ -2155,6 +2636,9 @@
       "yugioh"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "laurieanngraves-art/Jackson-the-king",
     "repo_url": "https://laurieanngraves-art.github.io/Jackson-the-king/",
@@ -2168,6 +2652,9 @@
       "yugioh"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "laurieanngraves-art/yugioh-dnd-",
     "repo_url": "https://laurieanngraves-art.github.io/yugioh-dnd-/",
@@ -2181,6 +2668,9 @@
       "avatar"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "laurieanngraves-art/avatar-dnd",
     "repo_url": "https://laurieanngraves-art.github.io/avatar-dnd/",
@@ -2194,6 +2684,9 @@
       "5e2024"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "laurieanngraves-art/one-piece-dnd",
     "repo_url": "https://laurieanngraves-art.github.io/one-piece-dnd/",
@@ -2208,6 +2701,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "laurieanngraves-art/viking-dnd-campaign-",
     "repo_url": "https://laurieanngraves-art.github.io/viking-dnd-campaign-/",
@@ -2222,6 +2718,9 @@
       "gow"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "6m8vwbbzcb-crypto/Gears-of-war-armory-",
     "repo_url": "https://6m8vwbbzcb-crypto.github.io/Gears-of-war-armory-/",
@@ -2236,6 +2735,9 @@
       "ondawork"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
     "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
@@ -2252,6 +2754,9 @@
       "fantasy"
     ],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 1,
     "github_repo": "stephentharp1994-maker/Wednesday-Dread-Campaign",
     "repo_url": "https://stephentharp1994-maker.github.io/Wednesday-Dread-Campaign/",
@@ -2262,6 +2767,9 @@
     "description": "a story item to give players more time to flesh out their character while still playing together",
     "tags": [],
     "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "b75sd9hg8b-sketch/Umbrasyl-s-Clown-Nose-",
     "repo_url": "https://b75sd9hg8b-sketch.github.io/Umbrasyl-s-Clown-Nose-/",
@@ -2276,6 +2784,9 @@
       "lmop"
     ],
     "origin": "official",
+    "systems": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk",
     "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk/",
@@ -2290,6 +2801,9 @@
       "lmop"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk-5.5",
     "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk-5.5/",
@@ -2304,6 +2818,9 @@
       "homebrew"
     ],
     "origin": "homebrew",
+    "systems": [
+      "pf2e"
+    ],
     "stars": 2,
     "github_repo": "Bleddyn159/Witcher-Homebrew",
     "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
@@ -2317,6 +2834,9 @@
       "abh"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/astarions-book-of-hungers",
     "repo_url": "https://DMRocketMaster.github.io/astarions-book-of-hungers/",
@@ -2330,6 +2850,9 @@
       "lfl"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/lorwyn-first-light",
     "repo_url": "https://DMRocketMaster.github.io/lorwyn-first-light/",
@@ -2343,6 +2866,9 @@
       "frhof"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/forgotten-realms-heroes-of-faerun",
     "repo_url": "https://DMRocketMaster.github.io/forgotten-realms-heroes-of-faerun/",
@@ -2357,6 +2883,9 @@
       "vampire"
     ],
     "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
     "stars": 0,
     "github_repo": "DMRocketMaster/Ravenloft-the-Horrors-Within",
     "repo_url": "https://DMRocketMaster.github.io/Ravenloft-the-Horrors-Within/",

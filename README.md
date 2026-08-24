@@ -71,6 +71,21 @@ Language and origin are independent: a faithful Russian translation of the 5e ru
 `"origin": "official"` **and** `"language": "ru"`. Don't add `"language": "en"` to
 English packs — absent means English.
 
+## Systems
+
+Every entry declares which game system(s) its content is for, using the system **ids**
+from the repo's own `systems.rpg` index (the app matches these exactly):
+
+```json
+"systems": ["5e2024"]
+```
+
+Most packs serve one system; a repo that has been published to from more than one
+system lists them all. Current ids in the registry: `5e`, `5e2024`, `pf2e`, `5e-ru`,
+`returner-system`. The app uses this to put packs for your current system first — an
+entry without it sorts with "other systems", so fill it in. Packs published from the
+RPG Companion App set it automatically.
+
 ## How the star sync works
 
 A GitHub Action runs periodically and:

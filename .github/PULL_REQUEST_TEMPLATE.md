@@ -16,3 +16,4 @@
 - [ ] `github_repo` is `owner/name` (or `null` if not on GitHub)
 - [ ] Description says what's actually in the pack
 - [ ] Pack not in English? Added `"language": "<two-letter code>"` after `origin` (translations of official content keep `origin: official`)
+- [ ] `systems` lists the system id(s) from my repo's `systems.rpg` (e.g. `["5e2024"]`)
