@@ -2923,5 +2923,24 @@
     "github_repo": "marvinmair3-glitch/Monsters-of-Drakkenheim-",
     "repo_url": "https://marvinmair3-glitch.github.io/Monsters-of-Drakkenheim-/",
     "has_system": false
+  },
+  {
+    "name": "Wednesday-Dread-Campaign",
+    "description": "Here you guys go. more to be added later.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "class",
+      "subclass",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "stephentharp1994-maker/Wednesday-Dread-Campaign",
+    "repo_url": "https://stephentharp1994-maker.github.io/Wednesday-Dread-Campaign/",
+    "has_system": false,
+    "systems": [
+      "5e"
+    ],
+    "origin": "homebrew"
   }
 ]
